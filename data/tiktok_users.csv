@@ -1,0 +1,16 @@
+username,display_name,follower_count,following_count,heart_count,video_count,verified,signature,user_id,sec_uid,avatar_url
+cryptoking,Crypto King,2500000,150,15000000,450,true,Crypto insights and analysis,user_1,sec_uid_1,https://example.com/avatar_1.jpg
+cryptoqueen,Crypto Queen,1800000,200,12000000,320,true,Making crypto simple,user_2,sec_uid_2,https://example.com/avatar_2.jpg
+bitcoinbaron,Bitcoin Baron,1500000,120,9000000,280,false,Bitcoin maximalist,user_3,sec_uid_3,https://example.com/avatar_3.jpg
+altcoinace,Altcoin Ace,1200000,180,7500000,350,false,Altcoin analysis and predictions,user_4,sec_uid_4,https://example.com/avatar_4.jpg
+defimaster,DeFi Master,950000,90,6000000,220,true,Decentralized finance expert,user_5,sec_uid_5,https://example.com/avatar_5.jpg
+nftguru,NFT Guru,850000,110,5500000,190,false,NFT collector and analyst,user_6,sec_uid_6,https://example.com/avatar_6.jpg
+tradingpro,Trading Pro,780000,95,4800000,280,false,Technical analysis specialist,user_7,sec_uid_7,https://example.com/avatar_7.jpg
+cryptoanalyst,Crypto Analyst,720000,85,4200000,210,true,Data-driven crypto insights,user_8,sec_uid_8,https://example.com/avatar_8.jpg
+blockchainbuff,Blockchain Buff,680000,120,3900000,240,false,Blockchain technology enthusiast,user_9,sec_uid_9,https://example.com/avatar_9.jpg
+ethexpert,ETH Expert,650000,75,3600000,180,true,Ethereum ecosystem specialist,user_10,sec_uid_10,https://example.com/avatar_10.jpg
+metaversemaven,Metaverse Maven,620000,130,3400000,160,false,Exploring the metaverse,user_11,sec_uid_11,https://example.com/avatar_11.jpg
+cryptotrends,Crypto Trends,580000,95,3200000,220,false,Latest trends in crypto,user_12,sec_uid_12,https://example.com/avatar_12.jpg
+tokentips,Token Tips,540000,80,2900000,190,false,Discovering promising tokens,user_13,sec_uid_13,https://example.com/avatar_13.jpg
+chainchampion,Chain Champion,510000,70,2700000,150,true,Multi-chain analysis,user_14,sec_uid_14,https://example.com/avatar_14.jpg
+cryptomemes,Crypto Memes,490000,110,2500000,280,false,Crypto with humor,user_15,sec_uid_15,https://example.com/avatar_15.jpg
