@@ -10,7 +10,7 @@ import tempfile
 from pathlib import Path
 import speech_recognition as sr
 from pydub import AudioSegment
-from moviepy.editor import VideoFileClip
+from moviepy import VideoFileClip
 import pytesseract
 from PIL import Image
 import numpy as np
